@@ -1,7 +1,7 @@
 <?php
-define("ROOT", $_SERVER['DOCUMENT_ROOT']."/");      // path to directory
+define("ROOT", $_SERVER['DOCUMENT_ROOT']."/Helpman/");      // path to directory
 
-define("SITE_URL", "http://".$_SERVER['HTTP_HOST'].'/');
+define("SITE_URL", "http://".$_SERVER['HTTP_HOST'].'/Helpman/');
 
 define("SQL_USER", "sql6152814");           						// Database username
 define("SQL_PASS", "Ty5pn8MDfV");           									// Database password
