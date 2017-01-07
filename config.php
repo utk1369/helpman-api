@@ -1,13 +1,13 @@
 <?php
-define("ROOT", $_SERVER['DOCUMENT_ROOT']."/Helpman/");      // path to directory
+define("ROOT", $_SERVER['DOCUMENT_ROOT']."/");      // path to directory
 
-define("SITE_URL", "http://".$_SERVER['HTTP_HOST'].'/Helpman/');
+define("SITE_URL", "http://".$_SERVER['HTTP_HOST'].'/');
 
-define("SQL_USER", "root");           						// Database username
-define("SQL_PASS", "");           									// Database password
-define("SQL_DB", "helpman");     							// Database name
+define("SQL_USER", "sql6152814");           						// Database username
+define("SQL_PASS", "Ty5pn8MDfV");           									// Database password
+define("SQL_DB", "sql6152814");     							// Database name
 
-define("SQL_HOST", "localhost");        					// Database host
+define("SQL_HOST", "sql6.freemysqlhosting.net");        					// Database host
 
 define("DEBUG", false);
 
